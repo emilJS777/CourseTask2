@@ -1,0 +1,193 @@
+﻿
+# .gitignore for ASP.NET Core
+
+## Visual Studio Code
+.vscode
+.vscode/
+
+## Rider
+.idea
+*.sln.iml
+.idea/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## .NET Scaffolding
+ScaffoldingReadMe.txt
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Tye
+.tye/
+
+## Visual Studio for Mac
+.vscode/
+.idea/
+.suo
+.user
+/*.user
+/*.userosscache
+/*-vscode.json
+/*-vscode.props
+/*-vscode.targets
+
+## Rider
+.idea/
+*.sln.iml
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Mono Auto Generated Files
+mono_crash.*
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Folder config file
+Desktop.ini
+
+## Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+## VS Code directories
+.vscode/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows shortcuts
+*.lnk
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Mono Auto Generated Files
+mono_crash.*
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Folder config file
+Desktop.ini
+
+## Recycle Bin used on file shares and different devices
+$RECYCLE.BIN/
+
+## VS Code directories
+.vscode/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows shortcuts
+*.lnk
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Mono Auto Generated Files
+mono_crash.*
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Folder config file
+Desktop.ini
+
+## Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+## VS Code directories
+.vscode/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows shortcuts
+*.lnk
+
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Tye
+.tye/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk

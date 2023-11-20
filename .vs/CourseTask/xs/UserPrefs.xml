@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D2F2957E-6AC8-40CD-B177-95025E59CFC2}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseTask/Src/ApplicationDbContext.cs">
+    <Files>
+      <File FileName="CourseTask/Src/ApplicationDbContext.cs" Line="47" Column="41" />
+      <File FileName="CourseTask/Src/MapperProfile.cs" Line="25" Column="20" />
+      <File FileName="CourseTask/Src/Models/UserModel.cs" Line="15" Column="23" />
+      <File FileName="CourseTask/Src/Models/ProfileModel.cs" Line="19" Column="1" />
+      <File FileName="CourseTask/Src/ViewModels/UserViewModel.cs" Line="1" Column="1" />
+      <File FileName="CourseTask/Src/ViewModels/ProfileViewModel.cs" Line="28" Column="1" />
+      <File FileName="CourseTask/Program.cs" Line="91" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseTask" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CourseTask PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
