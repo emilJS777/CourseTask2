@@ -1,25 +1,26 @@
 ﻿<Properties StartupConfiguration="{D2F2957E-6AC8-40CD-B177-95025E59CFC2}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CourseTask/Src/ApplicationDbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
     <Files>
-      <File FileName="CourseTask/Src/ApplicationDbContext.cs" Line="47" Column="41" />
-      <File FileName="CourseTask/Src/MapperProfile.cs" Line="25" Column="20" />
-      <File FileName="CourseTask/Src/Models/UserModel.cs" Line="15" Column="23" />
-      <File FileName="CourseTask/Src/Models/ProfileModel.cs" Line="19" Column="1" />
-      <File FileName="CourseTask/Src/ViewModels/UserViewModel.cs" Line="1" Column="1" />
-      <File FileName="CourseTask/Src/ViewModels/ProfileViewModel.cs" Line="28" Column="1" />
-      <File FileName="CourseTask/Program.cs" Line="91" Column="1" />
+      <File FileName="README.md" Line="29" Column="1" />
+      <File FileName="CourseTask/Program.cs" Line="1" Column="1" />
+      <File FileName="CourseTask/Src/ApplicationDbContext.cs" Line="48" Column="80" />
+      <File FileName="CourseTask/Src/MapperProfile.cs" Line="1" Column="1" />
+      <File FileName="CourseTask/appsettings.json" Line="1" Column="1" />
+      <File FileName=".gitignore" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CourseTask" expanded="True" selected="True" />
+          <Node name="CourseTask" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.CourseTask PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
