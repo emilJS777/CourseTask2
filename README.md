@@ -6,6 +6,7 @@ but I built the project according to my understanding, if there is something to 
 ------
 Let's start. I will try to describe as clearly as possible what I created and how it works
 ------
+create a database in mysql called CourseTaskDB connection string is "Server=localhost;Database=CourseTaskDB;User=root;Password=<password>;".
 after the database migration, a user is automatically created, a profile and 2 courses, this is the seed date as it was in the task.
 by default (username: seeduser | password: seedpassword) for user login
 
